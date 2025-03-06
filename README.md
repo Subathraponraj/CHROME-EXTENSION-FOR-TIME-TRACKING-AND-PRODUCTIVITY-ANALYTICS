@@ -25,3 +25,7 @@ The extension is designed to be lightweight and efficient, running in the backgr
 Overall, the Time Tracker & Productivity Analytics Chrome Extension serves as a valuable tool for individuals seeking to enhance their productivity by gaining better control over their web usage. By offering real-time tracking, website classification, and detailed analytics, this extension empowers users to develop healthier digital habits and make more informed decisions about their online time management.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/0785b8b0-86f3-489a-b8c9-387aba3d5382)
+
+![Image](https://github.com/user-attachments/assets/25a0d5a9-aa78-4c18-8421-25217308a574)
