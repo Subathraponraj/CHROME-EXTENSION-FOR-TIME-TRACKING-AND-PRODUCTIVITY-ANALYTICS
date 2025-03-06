@@ -1,16 +1,16 @@
-COMPANY: CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
-NAME: PAVITHRA P
+*NAME*: PAVITHRA P
 
-INTERN ID: CT08TFT
+*INTERN ID*: CT08TFT
 
-DOMAIN: FULL STACK WEB DEVELOPMENT
+*DOMAIN*: FULL STACK WEB DEVELOPMENT
 
-DURATION: 4 WEEKS
+*DURATION*: 4 WEEKS
 
-MENTOR: NEELA SANTHOSH
+*MENTOR*: NEELA SANTHOSH
 
-DESCRIPTION: The Time Tracker & Productivity Analytics Chrome Extension is designed to help users monitor the time spent on different websites, providing valuable insights into their online activities. This extension automatically records the duration spent on various domains and classifies them as productive or unproductive based on predefined criteria. By tracking browsing habits, users can identify areas where they may be spending excessive time and make informed decisions to enhance their productivity. The extension includes a backend server to store user data and a dashboard that presents analytics in a structured and visually accessible manner. 
+*DESCRIPTION*: The Time Tracker & Productivity Analytics Chrome Extension is designed to help users monitor the time spent on different websites, providing valuable insights into their online activities. This extension automatically records the duration spent on various domains and classifies them as productive or unproductive based on predefined criteria. By tracking browsing habits, users can identify areas where they may be spending excessive time and make informed decisions to enhance their productivity. The extension includes a backend server to store user data and a dashboard that presents analytics in a structured and visually accessible manner. 
 
 When a user opens a website, the extension detects the domain and starts tracking the time spent on it. The background script listens for tab updates and changes in browser activity, ensuring that accurate time calculations are maintained. The collected data is stored locally in the browser’s storage and periodically sent to the backend server, where it is saved in a MongoDB database. The backend, built using Node.js and Express, handles data storage, retrieval, and processing. The stored information is then used to generate reports that help users analyze their browsing patterns over time. 
 
